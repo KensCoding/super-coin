@@ -1,2 +1,1 @@
-# super-coin
-bitcoin miner online
+# pizza
